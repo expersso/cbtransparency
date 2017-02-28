@@ -1,0 +1,16 @@
+Package: cbtransparency
+Title: Dataset on central bank transparency from Dincer and Eichengreen (2014)
+Version: 0.1
+Authors@R: person("Eric", "Persson", email = "expersso5@gmail.com",
+    role = c("aut", "cre"))
+Description: Package contains the dataset on central bank transparency from
+    Dincer and Eichengreen, "Central Bank Transparency and Independence: Updates and
+    New Measures", International Journal of Central Banking, Vol. 10, No. 1:189-259, 
+    March 2014. See <http://eml.berkeley.edu/~eichengr/data.shtml> for more information.
+Depends:
+    R (>= 3.3.2)
+URL: http://github.com/expersso/cbtransparency
+License: CC0
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
